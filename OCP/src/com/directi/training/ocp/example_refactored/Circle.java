@@ -1,5 +1,3 @@
-package com.directi.training.ocp.example_refactored;
-
 public class Circle extends Shape
 {
     private final double _radius;

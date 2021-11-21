@@ -1,5 +1,3 @@
-package com.directi.training.ocp.exercise;
-
 /**
  * Created by IntelliJ IDEA.
  * User: goyalamit

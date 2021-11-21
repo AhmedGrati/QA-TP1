@@ -1,5 +1,3 @@
-package com.directi.training.dip.example_refactored;
-
 public class Fan implements Equipment
 {
     private int _speed;

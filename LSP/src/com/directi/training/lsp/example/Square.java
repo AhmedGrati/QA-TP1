@@ -1,5 +1,3 @@
-package com.directi.training.lsp.example;
-
 public class Square extends Rectangle
 {
     @Override

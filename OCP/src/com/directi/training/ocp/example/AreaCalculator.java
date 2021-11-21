@@ -1,5 +1,3 @@
-package com.directi.training.ocp.example;
-
 import java.util.List;
 
 public class AreaCalculator

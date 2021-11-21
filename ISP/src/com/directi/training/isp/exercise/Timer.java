@@ -1,5 +1,3 @@
-package com.directi.training.isp.exercise;
-
 import java.util.TimerTask;
 
 public class Timer

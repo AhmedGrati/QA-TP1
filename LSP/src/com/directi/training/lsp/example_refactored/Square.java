@@ -1,5 +1,3 @@
-package com.directi.training.lsp.example_refactored;
-
 public class Square
 {
     private int _side;

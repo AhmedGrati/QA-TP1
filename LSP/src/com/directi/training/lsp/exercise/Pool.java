@@ -1,5 +1,3 @@
-package com.directi.training.lsp.exercise;
-
 public class Pool
 {
     public void run()

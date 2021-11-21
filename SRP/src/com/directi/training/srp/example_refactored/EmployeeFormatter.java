@@ -1,5 +1,3 @@
-package com.directi.training.srp.example_refactored;
-
 public class EmployeeFormatter
 {
     private final Employee _employee;

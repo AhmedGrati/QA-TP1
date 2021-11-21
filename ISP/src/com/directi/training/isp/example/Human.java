@@ -1,5 +1,3 @@
-package com.directi.training.isp.example;
-
 public class Human implements Worker
 {
     @Override

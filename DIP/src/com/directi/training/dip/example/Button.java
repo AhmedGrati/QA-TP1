@@ -1,13 +1,11 @@
-package com.directi.training.dip.example;
-
 public class Button
 {
-    private Lamp _lamp;
+    private Equipement _equipement;
     private boolean _state;
 
-    public Button(Lamp lamp)
+    public Button(Equipement equipement)
     {
-        _lamp = lamp;
+        _equipement = equipement;
     }
 
     public void toggle()
@@ -15,9 +13,9 @@ public class Button
         _state = !_state;
         boolean buttonOn = _state;
         if (buttonOn) {
-            _lamp.turnOn();
+            _equipement.turnOn();
         } else {
-            _lamp.turnOff();
+            _equipement.turnOff();
         }
     }
 

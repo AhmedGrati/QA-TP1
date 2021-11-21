@@ -1,5 +1,3 @@
-package com.directi.training.lsp.example;
-
 public class Rectangle
 {
     protected int _width;

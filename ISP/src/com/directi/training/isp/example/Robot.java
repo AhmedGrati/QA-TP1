@@ -1,5 +1,3 @@
-package com.directi.training.isp.example;
-
 public class Robot implements Worker
 {
     @Override

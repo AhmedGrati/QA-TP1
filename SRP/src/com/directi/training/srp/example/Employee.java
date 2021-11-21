@@ -1,5 +1,3 @@
-package com.directi.training.srp.example;
-
 public class Employee
 {
     private static final int LEAVES_ALLOWED = 27;

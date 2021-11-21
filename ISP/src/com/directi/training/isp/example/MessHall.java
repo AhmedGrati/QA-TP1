@@ -1,5 +1,3 @@
-package com.directi.training.isp.example;
-
 import java.util.List;
 
 public class MessHall

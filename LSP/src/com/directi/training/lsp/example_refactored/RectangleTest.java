@@ -1,5 +1,3 @@
-package com.directi.training.lsp.example_refactored;
-
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

@@ -1,5 +1,3 @@
-package com.directi.training.isp.example_refactored;
-
 public class Human implements IWorker, IEater
 {
     @Override

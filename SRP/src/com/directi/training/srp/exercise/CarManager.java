@@ -1,5 +1,3 @@
-package com.directi.training.srp.exercise;
-
 import java.util.Arrays;
 import java.util.List;
 
